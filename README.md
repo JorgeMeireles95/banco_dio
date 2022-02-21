@@ -1,5 +1,7 @@
 # README
 
+Utilização do Maven para gerar o projeto e o uso do framework Lombok para reduzir as linhas de código.
+
 Java 11 base application.
 
 ## BASE SETUP
@@ -9,6 +11,7 @@ Java 11 base application.
 * Junit 5
 * AssertJ
 * Mockito
+* Lombok
 
 ### Support
 
